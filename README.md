@@ -1,2 +1,2 @@
 # Resume-Website
-Created an extended version of my resume using HTML
+Created an extended version of my resume using HTML and CSS
